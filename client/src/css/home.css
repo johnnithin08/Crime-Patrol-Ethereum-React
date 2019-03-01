@@ -1,0 +1,51 @@
+
+body {
+    background-image: url("../images/police1.jpg");
+    background-size: cover;
+    align-content:center;
+    padding-top: 4%;
+    background-attachment: inherit
+    }
+ 
+
+.display
+ {
+   color: yellow;
+ }
+
+.input-group{
+  width: 700px;
+  align-content: center;
+  padding-left: 300px;
+  padding-right: 300px;
+  color: white;
+  
+}
+   
+
+      
+      input[type=text], input[type=number], textarea {
+        width: 700px;
+        padding: 12px 20px;
+        align-content: center;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+      }
+
+      button {
+        background-color: slategrey  ;
+        color: white;
+        padding: 14px 2px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 350px;
+      }
+         
+    
+    h1{
+      text-align: center;
+      color: whitesmoke;
+    }
