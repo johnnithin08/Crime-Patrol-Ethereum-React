@@ -67,4 +67,6 @@ the repository. Next, navigate to the cloned directory and install the necessary
 
 	c)New User : New user has a one time signup.On signup a certain amount of token gets transferred to the user account which can be used as an access right for searching.
 
+Note : Kindly refresh page to initialise web3 on each page access.
+
 
