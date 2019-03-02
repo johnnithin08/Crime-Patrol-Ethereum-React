@@ -55,7 +55,7 @@ the repository. Next, navigate to the cloned directory and install the necessary
 
  • Ropsten network deployement - truffle migrate --reset --network ropsten
 
- • Copy the mnemonic in truffle-config.js to metamask to obtain the accounts.
+ • Copy the mnemonic in truffle-config.js to metamask to obtain the accounts and add the custom token with address “0x540e8BFa34E7445EF34436cA16411C993086DF53”.
 
  • Now run client and then npm start to start the Dapp.
 
