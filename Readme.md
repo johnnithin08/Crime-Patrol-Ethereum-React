@@ -39,6 +39,9 @@ the repository. Next, navigate to the cloned directory into the client directory
 
 ## Install dependencies
 
+ • truffle compile
+
+ • On compiling, deploy on ropsten network - truffle migrate --reset --network ropsten
 
  • Copy the mnemonic in truffle-config.js to metamask to obtain the accounts and add the custom token with address “0x540e8BFa34E7445EF34436cA16411C993086DF53”.
 
