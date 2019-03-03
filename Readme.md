@@ -1,12 +1,12 @@
 # Crime Patrol
 
-Crime Patrol is a Dapp for storing the criminal records along with with the fingerprint in a blockchain network using IPFS.
+The “CRIME PATROL” provides a  decentralized platform on which the details regarding the criminal records  of an individual can be viewed or added(admins only) based on a unique identification number. This can be used to check if the person is a registered offender or if any offenses are charged against the person.The records that are uploaded can be easily available for verification and thereby makes the whole process faster.The Criminal Records are  stored in the IPFS.Any recruiting agency can register with the police to gain access to the permissioned network.Once added to the permissioned network the registered agency can check if a candidate have any criminal records using a unique ID.
 
 
 ## Features
 Crime Patrol features:
 
- • Easy to purchase ticket interface (and prevention of duplicate tickets)  
+ • SImple Dapp with IPFS  
 
  • Works with the Metamask wallet
 
@@ -14,9 +14,9 @@ Crime Patrol features:
 
  • Integration with all major Ethereum testnets
 
- • A blockchain-based randomness generator to ensure fairness
+ • Permissioned network
 
- • Real-time ether to USD converter
+ • Provision to add new users on registration
 
 ## Technologies Used
 
@@ -39,17 +39,6 @@ the repository. Next, navigate to the cloned directory and install the necessary
 
 ## Install dependencies
 
--ipfs (npm install  ipfs-api)
-
--react (sudo npm install -g create-react-app)
-
--react-dom(npm install react react-dom)
-
--react-router dom(npm install  react-router-dom)
-
--truffle-contract(npm install truffle-contract)
-
--hd wallet provider(npm install truffle-hdwallet-provider)
 
  • Once dependencies are installed run truffle compile.
 
